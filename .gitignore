@@ -1,4 +1,4 @@
 S001-S010/.
-data/.
+/data/.
 model_weights.pth
 model.pth
